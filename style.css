@@ -14,11 +14,6 @@ body{
     text-align: center;
 }
 
-input{
-    padding: 10px;
-    margin: 10px;
-}
-
 button{
     padding: 10px 20px;
     background: #0f172a;
@@ -27,7 +22,3 @@ button{
     border-radius: 5px;
 }
 
-p{
-    margin-top: 20px;
-    font-size: 18px;
-}
